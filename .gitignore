@@ -77,10 +77,7 @@ typings/
 
 # Next.js build output
 .next
-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
-git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
 
-git remote set-url origin https://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@github.com/julius425/TestTaskXlsx.git
 # Nuxt.js build / generate output
 .nuxt
 dist
@@ -214,9 +211,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
 # Environments
-.env
+
 .venv
 env/
 venv/
